@@ -1,0 +1,379 @@
+{
+    "messageId": 1160,
+    "arasakaServer": "us-east-1",
+    "netwatchMonitored": true,
+    "content": {
+        "accessKey": "4c0a77e32e2c5baae474878f251e1695697c4155",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 33,
+        "processList": [
+            {
+                "processId": 107471,
+                "memory": "22052MB",
+                "family": "Temp",
+                "openFiles": "IpsumPrimisIn.avi"
+            },
+            {
+                "processId": 293361,
+                "memory": "6475MB",
+                "family": "Namfix",
+                "openFiles": "NisiVenenatis.ppt"
+            },
+            {
+                "processId": 261000,
+                "memory": "3598MB",
+                "family": "Sonair",
+                "openFiles": "DiamCras.jpeg"
+            },
+            {
+                "processId": 113366,
+                "memory": "850MB",
+                "family": "Y-Solowarm",
+                "openFiles": "Ultrices.mov"
+            },
+            {
+                "processId": 11376,
+                "memory": "8396MB",
+                "family": "Job",
+                "openFiles": "InFaucibusOrci.mp3"
+            },
+            {
+                "processId": 185417,
+                "memory": "29242MB",
+                "family": "Pannier",
+                "openFiles": "MorbiSem.png"
+            },
+            {
+                "processId": 6472,
+                "memory": "25669MB",
+                "family": "Solarbreeze",
+                "openFiles": "MusEtiamVel.mp3"
+            },
+            {
+                "processId": 275607,
+                "memory": "17995MB",
+                "family": "Holdlamis",
+                "openFiles": "Augue.mp3"
+            },
+            {
+                "processId": 20153,
+                "memory": "9874MB",
+                "family": "Vagram",
+                "openFiles": "EstCongueElementum.mp3"
+            },
+            {
+                "processId": 263915,
+                "memory": "24126MB",
+                "family": "Tempsoft",
+                "openFiles": "LaoreetUt.mp3"
+            },
+            {
+                "processId": 46498,
+                "memory": "17985MB",
+                "family": "Tin",
+                "openFiles": "CurabiturConvallisDuis.ppt"
+            },
+            {
+                "processId": 72351,
+                "memory": "27223MB",
+                "family": "Konklux",
+                "openFiles": "EtUltrices.pdf"
+            },
+            {
+                "processId": 100426,
+                "memory": "6922MB",
+                "family": "Tampflex",
+                "openFiles": "Semper.xls"
+            },
+            {
+                "processId": 254632,
+                "memory": "25887MB",
+                "family": "Duobam",
+                "openFiles": "CubiliaCurae.xls"
+            },
+            {
+                "processId": 31022,
+                "memory": "27654MB",
+                "family": "Lotstring",
+                "openFiles": "Faucibus.avi"
+            },
+            {
+                "processId": 69342,
+                "memory": "5729MB",
+                "family": "Domainer",
+                "openFiles": "VestibulumAnteIpsum.jpeg"
+            },
+            {
+                "processId": 277137,
+                "memory": "9623MB",
+                "family": "Tampflex",
+                "openFiles": "Nibh.tiff"
+            },
+            {
+                "processId": 154809,
+                "memory": "20368MB",
+                "family": "Ventosanzap",
+                "openFiles": "SedAccumsanFelis.xls"
+            },
+            {
+                "processId": 250625,
+                "memory": "15090MB",
+                "family": "Tampflex",
+                "openFiles": "HabitassePlateaDictumst.mp3"
+            },
+            {
+                "processId": 214069,
+                "memory": "10061MB",
+                "family": "Overhold",
+                "openFiles": "AliquetMaecenasLeo.xls"
+            },
+            {
+                "processId": 249047,
+                "memory": "27403MB",
+                "family": "Ventosanzap",
+                "openFiles": "UtErat.ppt"
+            },
+            {
+                "processId": 124010,
+                "memory": "26492MB",
+                "family": "Opela",
+                "openFiles": "MiInteger.xls"
+            },
+            {
+                "processId": 102277,
+                "memory": "2645MB",
+                "family": "Holdlamis",
+                "openFiles": "Amet.mp3"
+            },
+            {
+                "processId": 82118,
+                "memory": "10360MB",
+                "family": "Job",
+                "openFiles": "MassaVolutpat.xls"
+            },
+            {
+                "processId": 220422,
+                "memory": "1129MB",
+                "family": "Prodder",
+                "openFiles": "CrasPellentesqueVolutpat.mpeg"
+            },
+            {
+                "processId": 235851,
+                "memory": "10447MB",
+                "family": "Bytecard",
+                "openFiles": "Eget.ppt"
+            },
+            {
+                "processId": 222495,
+                "memory": "27586MB",
+                "family": "Kanlam",
+                "openFiles": "Vitae.pdf"
+            },
+            {
+                "processId": 198377,
+                "memory": "12193MB",
+                "family": "Prodder",
+                "openFiles": "DapibusAugue.jpeg"
+            },
+            {
+                "processId": 83950,
+                "memory": "27510MB",
+                "family": "Zoolab",
+                "openFiles": "HabitassePlatea.doc"
+            },
+            {
+                "processId": 150159,
+                "memory": "2856MB",
+                "family": "Duobam",
+                "openFiles": "Lacus.doc"
+            },
+            {
+                "processId": 253065,
+                "memory": "15448MB",
+                "family": "Duobam",
+                "openFiles": "SapienCursus.avi"
+            },
+            {
+                "processId": 232282,
+                "memory": "5805MB",
+                "family": "Keylex",
+                "openFiles": "NuncVestibulum.xls"
+            },
+            {
+                "processId": 228974,
+                "memory": "10979MB",
+                "family": "Wrapsafe",
+                "openFiles": "Mauris.doc"
+            },
+            {
+                "processId": 6445,
+                "memory": "19151MB",
+                "family": "Vagram",
+                "openFiles": "Mauris.png"
+            },
+            {
+                "processId": 69838,
+                "memory": "10545MB",
+                "family": "Lotlux",
+                "openFiles": "NullaSuscipitLigula.mp3"
+            },
+            {
+                "processId": 138055,
+                "memory": "18167MB",
+                "family": "Tres-Zap",
+                "openFiles": "MetusSapien.ppt"
+            },
+            {
+                "processId": 190092,
+                "memory": "28845MB",
+                "family": "Holdlamis",
+                "openFiles": "EuSapienCursus.ppt"
+            },
+            {
+                "processId": 197644,
+                "memory": "27032MB",
+                "family": "Cardguard",
+                "openFiles": "RhoncusMaurisEnim.xls"
+            },
+            {
+                "processId": 56973,
+                "memory": "27543MB",
+                "family": "Lotlux",
+                "openFiles": "VenenatisTurpis.avi"
+            },
+            {
+                "processId": 99401,
+                "memory": "3154MB",
+                "family": "Cardify",
+                "openFiles": "Amet.ppt"
+            },
+            {
+                "processId": 265353,
+                "memory": "9192MB",
+                "family": "Konklab",
+                "openFiles": "ANibhIn.txt"
+            },
+            {
+                "processId": 212206,
+                "memory": "27224MB",
+                "family": "Bytecard",
+                "openFiles": "Consectetuer.jpeg"
+            },
+            {
+                "processId": 142460,
+                "memory": "25740MB",
+                "family": "Span",
+                "openFiles": "CrasMiPede.png"
+            },
+            {
+                "processId": 209613,
+                "memory": "7624MB",
+                "family": "Cardify",
+                "openFiles": "UltricesLiberoNon.ppt"
+            },
+            {
+                "processId": 116047,
+                "memory": "21947MB",
+                "family": "Namfix",
+                "openFiles": "JustoMorbiUt.jpeg"
+            },
+            {
+                "processId": 82392,
+                "memory": "2216MB",
+                "family": "Fix San",
+                "openFiles": "AmetConsectetuerAdipiscing.xls"
+            },
+            {
+                "processId": 242433,
+                "memory": "6866MB",
+                "family": "Tampflex",
+                "openFiles": "Mattis.mov"
+            },
+            {
+                "processId": 139535,
+                "memory": "15441MB",
+                "family": "Flowdesk",
+                "openFiles": "MaurisEnimLeo.tiff"
+            },
+            {
+                "processId": 280360,
+                "memory": "24938MB",
+                "family": "Andalax",
+                "openFiles": "CurabiturConvallisDuis.jpeg"
+            },
+            {
+                "processId": 144154,
+                "memory": "26744MB",
+                "family": "Span",
+                "openFiles": "Lorem.avi"
+            },
+            {
+                "processId": 296370,
+                "memory": "14577MB",
+                "family": "Fintone",
+                "openFiles": "TinciduntEgetTempus.avi"
+            },
+            {
+                "processId": 168555,
+                "memory": "20290MB",
+                "family": "Rank",
+                "openFiles": "Massa.pdf"
+            },
+            {
+                "processId": 74017,
+                "memory": "20529MB",
+                "family": "Cookley",
+                "openFiles": "ConsectetuerEget.png"
+            },
+            {
+                "processId": 180277,
+                "memory": "28527MB",
+                "family": "Trippledex",
+                "openFiles": "PenatibusEt.mp3"
+            },
+            {
+                "processId": 97549,
+                "memory": "18906MB",
+                "family": "Voltsillam",
+                "openFiles": "AmetEleifendPede.mp3"
+            },
+            {
+                "processId": 75606,
+                "memory": "16082MB",
+                "family": "Treeflex",
+                "openFiles": "PraesentBlanditLacinia.avi"
+            },
+            {
+                "processId": 102485,
+                "memory": "24164MB",
+                "family": "Konklux",
+                "openFiles": "UltriciesEu.ppt"
+            },
+            {
+                "processId": 213462,
+                "memory": "11589MB",
+                "family": "Temp",
+                "openFiles": "Hendrerit.gif"
+            },
+            {
+                "processId": 131226,
+                "memory": "12014MB",
+                "family": "Fix San",
+                "openFiles": "Odio.mp3"
+            },
+            {
+                "processId": 188550,
+                "memory": "15390MB",
+                "family": "Sonair",
+                "openFiles": "Pede.gif"
+            },
+            {
+                "processId": 159335,
+                "memory": "405MB",
+                "family": "Treeflex",
+                "openFiles": "VestibulumAnte.pdf"
+            }
+        ]
+    }
+}

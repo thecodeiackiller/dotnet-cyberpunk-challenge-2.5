@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-cyberpunk-challenge-2.5", "dotnet-cyberpunk-challenge-2.5.csproj", "{5AEF8FE5-2C6C-452D-B04F-6D7DB80646C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-cyberpunk-challenge-2.5", "dotnet-cyberpunk-challenge-2.5.csproj", "{2BFC9885-C68C-4C73-9FA1-1B1A5D57FE10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5AEF8FE5-2C6C-452D-B04F-6D7DB80646C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5AEF8FE5-2C6C-452D-B04F-6D7DB80646C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5AEF8FE5-2C6C-452D-B04F-6D7DB80646C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5AEF8FE5-2C6C-452D-B04F-6D7DB80646C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFC9885-C68C-4C73-9FA1-1B1A5D57FE10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFC9885-C68C-4C73-9FA1-1B1A5D57FE10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFC9885-C68C-4C73-9FA1-1B1A5D57FE10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFC9885-C68C-4C73-9FA1-1B1A5D57FE10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

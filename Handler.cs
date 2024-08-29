@@ -28,7 +28,8 @@ namespace dotnet_cyberpunk_challenge_2._5
                 We need to print out the memory mapping. We need you to loop over the IEnumerable of strings 
                 with a `foreach(...)` and print each of them out.
             */
-            IEnumerable<string> processMemoryMapping = await iceBreaker.GetProcessMemoryMapping();
+            // TODO
+            // IEnumerable<string> processMemoryMapping = await iceBreaker.GetProcessMemoryMapping();
         }
     }
 }
